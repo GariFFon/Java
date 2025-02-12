@@ -18,7 +18,6 @@ public class Inputs_in_Array {
         for (int i = 0; i < arr.length; i++) {
             System.out.print("Enter "+i+" Number: ");
             arr[i] = in.nextInt();
-
         }
         for (int j : arr) { // enhance way to write for loop in java
             System.out.print(j + " "); // here j represents elements of array.

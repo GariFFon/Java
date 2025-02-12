@@ -6,6 +6,7 @@ import java.util.Scanner;
 import static java.util.Collections.swap;
 
 public class Swapping_values_in_array {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

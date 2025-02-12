@@ -6,6 +6,11 @@ import java.util.stream.StreamSupport;
 public class Array {
     public static void main(String[] args) {
         Scanner in= new Scanner(System.in);
+        int arr[] = {1,2,3,4};
+        String a = "Geeksforgeeks";
+        System.out.println(a.length());
+        System.out.println(arr.length);
+
 
 
       //Syntax

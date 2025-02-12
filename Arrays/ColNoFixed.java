@@ -15,6 +15,9 @@ public class ColNoFixed {
 
         //output
 
+
+        System.out.println(Arrays.deepToString(arr)); // to print the whole 2D array..!!
+
         for (int row=0; row < arr.length;row++){
             System.out.println(Arrays.toString(arr[row]));
         }
